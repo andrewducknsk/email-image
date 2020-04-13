@@ -1,0 +1,22 @@
+{
+  "short_name": "short name",
+  "name": "Name Погашение кредитов",
+  "description": "description Погашение кредитов",
+  "icons": [
+    {
+      "src": "./naruto-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./naruto-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/repayment/online/",
+  "background_color": "red",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#448aff"
+}
