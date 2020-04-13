@@ -14,9 +14,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?source=pwa",
+  "start_url": "https://localhost:3001/repayment/online/?source=pwa",
   "background_color": "red",
   "display": "standalone",
-  "scope": "/",
+  "scope": "https://localhost:3001/repayment/online/",
   "theme_color": "#448aff"
 }
