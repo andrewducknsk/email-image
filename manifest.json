@@ -14,7 +14,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/repayment/online/",
+  "start_url": "/",
   "background_color": "red",
   "display": "standalone",
   "scope": "/",
